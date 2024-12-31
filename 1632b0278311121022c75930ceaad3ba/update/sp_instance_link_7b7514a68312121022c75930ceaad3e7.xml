@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>car</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Request Loaner Vehicle">7685b9df836d521022c75930ceaad352</sc_cat_item>
+        <sc_category/>
+        <short_description>Request your vehicle with this user-friendly form. </short_description>
+        <size>md</size>
+        <sp_column display_value="1">f37514a68312121022c75930ceaad3e5</sp_column>
+        <sp_page display_value="sw_sc_cat_item">0b12efc1870e0300e3010cf888cb0bdb</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-08 16:58:50</sys_created_on>
+        <sys_id>7b7514a68312121022c75930ceaad3e7</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Vehicle Request</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+        <sys_update_name>sp_instance_link_7b7514a68312121022c75930ceaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 04:23:30</sys_updated_on>
+        <title>Vehicle Request</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=7b7514a68312121022c75930ceaad3e7"/>
+</record_update>

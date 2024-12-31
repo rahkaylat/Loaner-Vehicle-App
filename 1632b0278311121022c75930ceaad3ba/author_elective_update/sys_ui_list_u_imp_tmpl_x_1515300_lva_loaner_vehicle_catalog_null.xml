@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>387b92dd8321121022c75930ceaad3f4</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2024-10-28 22:46:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</application>
+        <file_path/>
+        <instance_id>c4831453db5d8a94ebdd2a591396196b</instance_id>
+        <instance_name>dev256717</instance_name>
+        <name>sys_ui_list_u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>387b92dd8321121022c75930ceaad3f4</sys_id><sys_mod_count/><sys_name>u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2024-10-28 22:46:21</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>444314748</payload_hash>
+        <record_name>Imp Tmpl X 1515300 Lva Loaner Vehicle Catalog</record_name>
+        <reverted_from/>
+        <source>94cead088321121022c75930ceaad30e</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 22:46:21</sys_created_on>
+        <sys_id>2edbdadd8321121022c75930ceaad356</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d54f0f630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 22:46:21</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>e2dbdaddab211210e4f382e15fbf2f56</update_guid>
+        <update_guid_history>e2dbdaddab211210e4f382e15fbf2f56:444314748,d6dbdadd8d2112106e107da80769e62a:249461493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 22:47:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>73047b98c5964f52831e69f4ff19ba81</sys_id>
+        <sys_metadata>aadbdadd8321121022c75930ceaad357</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+        <sys_parent display_value="">a47b92dd8321121022c75930ceaad3bf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+        <sys_scope_delete display_value="">27131a2b51224ff897380a2b256f8824</sys_scope_delete>
+        <sys_update_name>sys_ui_list_u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_u_imp_tmpl_x_1515300_lva_loaner_vehicle_catalog_null">2edbdadd8321121022c75930ceaad356</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 22:47:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

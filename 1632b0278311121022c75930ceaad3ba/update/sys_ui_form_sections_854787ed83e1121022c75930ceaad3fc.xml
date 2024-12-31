@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="854787ed83e1121022c75930ceaad3fc" sys_domain="global" table="x_1515300_lva_vehicle_tracker" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-29 20:34:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1147c7ed83e1121022c75930ceaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1515300_lva_vehicle_tracker" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">854787ed83e1121022c75930ceaad3fc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">2dbc2b9183e5121022c75930ceaad3d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-29 20:34:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-29 20:34:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d47c7ed83e1121022c75930ceaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1515300_lva_vehicle_tracker" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">854787ed83e1121022c75930ceaad3fc</sys_ui_form>
+            <sys_ui_section caption="Return Details" display_value="Return Details" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">014787ed83e1121022c75930ceaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-29 20:34:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 03:45:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a73750e8321121022c75930ceaad304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1515300_lva_vehicle_tracker" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">854787ed83e1121022c75930ceaad3fc</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">da73750e8321121022c75930ceaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 03:45:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-03 05:30:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a338ed878369121022c75930ceaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1515300_lva_vehicle_tracker" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">854787ed83e1121022c75930ceaad3fc</sys_ui_form>
+            <sys_ui_section caption="Vehicle Servicings" display_value="Vehicle Servicings" name="x_1515300_lva_vehicle_tracker" sys_domain="global" view="Default view">a338ed878369121022c75930ceaad30f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-03 05:30:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1515300_lva_vehicle_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-29 20:34:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>854787ed83e1121022c75930ceaad3fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1515300_lva_vehicle_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+            <sys_update_name>sys_ui_form_sections_854787ed83e1121022c75930ceaad3fc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-29 20:34:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

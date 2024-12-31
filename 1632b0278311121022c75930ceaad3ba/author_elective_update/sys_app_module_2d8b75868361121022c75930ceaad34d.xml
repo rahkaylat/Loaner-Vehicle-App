@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value=" Loaner Vehicle Request">d427b1428361121022c75930ceaad352</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1515300_lva_vehicle_tracker">tracker_status=Open^EQ<item display_value="Open" endquery="false" field="tracker_status" goto="false" newquery="false" operator="=" or="false" value="Open"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1515300_lva_vehicle_tracker</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 04:21:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d8b75868361121022c75930ceaad34d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+        <sys_update_name>sys_app_module_2d8b75868361121022c75930ceaad34d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 04:21:23</sys_updated_on>
+        <timeline_page/>
+        <title>open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</application>
+        <file_path/>
+        <instance_id>c4831453db5d8a94ebdd2a591396196b</instance_id>
+        <instance_name>dev256717</instance_name>
+        <name>sys_app_module_2d8b75868361121022c75930ceaad34d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value=" Loaner Vehicle Request">d427b1428361121022c75930ceaad352</application><assessment/><device_type/><filter table="x_1515300_lva_vehicle_tracker">tracker_status=Open^EQ<item display_value="Open" endquery="false" field="tracker_status" goto="false" newquery="false" operator="=" or="false" value="Open"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>open</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1515300_lva_vehicle_tracker</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-31 04:21:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2d8b75868361121022c75930ceaad34d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>open</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope><sys_update_name>sys_app_module_2d8b75868361121022c75930ceaad34d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-31 04:21:23</sys_updated_on><timeline_page/><title>open</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1285552665</payload_hash>
+        <record_name>open</record_name>
+        <reverted_from/>
+        <source>94cead088321121022c75930ceaad30e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 04:21:23</sys_created_on>
+        <sys_id>cebb71868361121022c75930ceaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192e0ce85360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 04:21:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c2bb7186e66112106b83818aec5e856f</update_guid>
+        <update_guid_history>c2bb7186e66112106b83818aec5e856f:-1285552665</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="open">aa3cfd868361121022c75930ceaad3b5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 04:23:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>924479fa683e43fba40a6f8e6f65de31</sys_id>
+        <sys_metadata>2d8b75868361121022c75930ceaad34d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>open</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1515300_lva">1632b0278311121022c75930ceaad3ba</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">1632b0278311121022c75930ceaad3ba</sys_scope>
+        <sys_scope_delete display_value="">27131a2b51224ff897380a2b256f8824</sys_scope_delete>
+        <sys_update_name>sys_app_module_2d8b75868361121022c75930ceaad34d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2d8b75868361121022c75930ceaad34d">cebb71868361121022c75930ceaad36f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 04:23:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
